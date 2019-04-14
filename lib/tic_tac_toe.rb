@@ -1,0 +1,3 @@
+def WIN_COMBINATIONS
+
+end
