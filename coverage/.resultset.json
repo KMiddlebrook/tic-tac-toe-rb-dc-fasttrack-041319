@@ -2,9 +2,22 @@
   "RSpec": {
     "coverage": {
       "/home/enchanting-creator-4509/tic-tac-toe-rb-dc-fasttrack-041319/lib/tic_tac_toe.rb": [
-
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null
       ]
     },
-    "timestamp": 1555266879
+    "timestamp": 1555267056
   }
 }
